@@ -28,5 +28,3 @@ Installation instructions are [here](/tutorial/01-installation.md)
 ## Tutorial
 
 The official tutorial can be found [here](/tutorial/00-start-here.md)
-
-### [Join our Discord](https://discord.gg/xrf)  [![Discord Chat](https://img.shields.io/discord/692672143053422678.svg)](https://discord.gg/xrf)

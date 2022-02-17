@@ -1,5 +1,5 @@
 # Nexus Engine
-Official fork of XREngine for The Nexus by the original creator of XREngine. Web3-enabled, ethically run, interoperability focused, always free and open source.
+Official fork of XREngine for The Nexus by the creator of XREngine. Web3-enabled, ethically run, interoperability focused, always free and open source.
 
 **Your own sandbox in the Metaverse. Take what you need, or launch the full stack.**
 
